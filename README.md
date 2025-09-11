@@ -8,6 +8,8 @@ Wallet: FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB
 - **Option 0:** No, I don’t want
 - **Option 1:** Yes, approved the budget of 2 bln QUBIC (@price $2200/Bln)
 
+---
+
 **Submitted by:** [Kairos](https://kairos-tek.com)  
 **Team Lead:** [Jorge Ordovás, CEO](https://www.linkedin.com/in/jorgeordovas/)
 
