@@ -47,11 +47,10 @@ T3chFest has established itself as **Spain's most important technology conferenc
 Jorge Ordovás brings exceptional advantages for this initiative.
 
 **T3chFest Track Record:**
-- **Successful participation as speaker at T3chFest 2023**
-- **"Decentralized social networks, Elon Musk's kryptonite"** - well-received technical presentation
+- **Successful participation as speaker at T3chFest 2024**: well-received technical presentation ["Decentralized social networks, Elon Musk's kryptonite"](https://www.youtube.com/watch?v=jKOg4JozuHE) 
 - **Established audience rapport** and proven engagement capability
 - **Direct relationships** with T3chFest organizers and UC3M faculty
-- **Local presence in Madrid** - eliminates travel logistics and costs
+- **Local presence in Madrid** eliminates travel logistics and costs
 
 **Technical & Academic Authority:**
 - **25+ years at Telefónica** including 7+ years as responsible for Blockchain & Web3 product development
@@ -63,7 +62,7 @@ Jorge Ordovás brings exceptional advantages for this initiative.
 
 **Verified Recent Achievements:**
 - **MAD Hack 2025 (Second Prize):** [EasyConnect](https://www.kairos-tek.com/easyconnect) - **launched commercially in September 2025**
-- **Raise Your Hack 2025 (First Prize + Audience Choice):** [QBuild](https://www.kairos-tek.com/qbuild) - incubation proposal ongoing
+- **Raise Your Hack 2025 (First Prize + Audience Choice):** [QBuild](https://www.kairos-tek.com/qbuild) incubation proposal ongoing
 - **Technical Innovation:**
   - EasyConnect: First solution to integrate Qubic smart contracts info in no-code platforms (Make, Zapier, n8n...)
   - Qbuild: First AI-based auditing and automatic testing tool for C++ smart contracts on Qubic platform
@@ -81,8 +80,7 @@ Based on T3chFest 2025 sponsorship structure:
 - ✅ **Logo on event roll-ups** (small size) throughout venue
 - ✅ **Logo on promotional posters** distributed across UC3M campus
 - ✅ **Promotion in social networks** (11.7k Twitter followers, 20k YouTube)
-- ✅ **Attendee data collection** via badge scanning system
-- ✅ **Reduced prize** most affordable price of all sponsorship options
+- ✅ **Reduced prize** most affordable price of all sponsorship options (early sponsor)
 
 **Technical Presentation Add-On:**
 - ✅ **50-minute technical presentation** in official T3chFest agenda
