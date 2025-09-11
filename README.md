@@ -66,7 +66,7 @@ Jorge Ordovás brings exceptional advantages for this initiative.
 - **Technical Innovation:**
   - EasyConnect: First solution to integrate Qubic smart contracts info in no-code platforms (Make, Zapier, n8n...)
   - Qbuild: First AI-based auditing and automatic testing tool for C++ smart contracts on Qubic platform
-- **Market Validation:** Rapid progression from EasyConnect concept in MAD HACK 2025 to commercial product in just 5 months, with initial projects working on integration (Garth)
+- **Market Validation:** Rapid progression from EasyConnect concept in MAD HACK 2025 to commercial product in just 5 months, with initial projects working on integration (Garth, Hashwallet)
 
 ## Implementation Strategy
 
