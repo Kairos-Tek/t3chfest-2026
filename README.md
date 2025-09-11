@@ -61,7 +61,7 @@ Jorge Ordovás brings exceptional advantages for this initiative.
 ### Kairos: Demonstrated 2025 Execution Excellence
 
 **Verified Recent Achievements:**
-- **MAD Hack 2025 (Second Prize):** [EasyConnect](https://www.kairos-tek.com/easyconnect) - **launched commercially in September 2025**
+- **MAD Hack 2025 (Second Prize):** [EasyConnect](https://www.kairos-tek.com/easyconnect) - **launched 4th September 2025**
 - **Raise Your Hack 2025 (First Prize + Audience Choice):** [QBuild](https://www.kairos-tek.com/qbuild) incubation proposal ongoing
 - **Technical Innovation:**
   - EasyConnect: First solution to integrate Qubic smart contracts info in no-code platforms (Make, Zapier, n8n...)
