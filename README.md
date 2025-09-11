@@ -15,7 +15,7 @@ Wallet: FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB
 
 ## Executive Summary
 
-This proposal requests funding for strategic participation in the 2026 edition of [T3chFest](https://t3chfest.es/2025/en) (Spain's premier developer-focused technology conference, organized by [UC3M, #16 university South Europe and #301 worldwide](https://www.topuniversities.com/universities/universidad-carlos-iii-de-madrid-uc3m) through official sponsorship and technical presentation.
+This proposal requests funding for strategic participation in the 2026 edition of [T3chFest](https://t3chfest.es/2025/en) (Spain's premier developer-focused technology conference, organized by [UC3M, #16 university South Europe and #301 worldwide](https://www.topuniversities.com/universities/universidad-carlos-iii-de-madrid-uc3m)) through official sponsorship and technical presentation.
 
 The initiative leverages CEO of Kairos (Jorge Ordovás) established T3chFest speaking experience and local presence to position Qubic as the leading blockchain platform for AI and decentralized computing among developers.
 
