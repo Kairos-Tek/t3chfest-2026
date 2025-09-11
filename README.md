@@ -35,7 +35,7 @@ T3chFest has established itself as **Spain's most important technology conferenc
 - **Over 70 technical talks** across 4 simultaneous tracks
 - **749 talk proposals** submitted, demonstrating exceptional community engagement
 - **Target audience:** Computer science students, professional developers, tech entrepreneurs, researchers
-- **Universidad Carlos III (UC3M) organizer:** Europe's top technology university ([#16 university South Europe and #301 worldwide](https://www.topuniversities.com/universities/universidad-carlos-iii-de-madrid-uc3m))
+- **Universidad Carlos III (UC3M) organizer:** Top technicall university in Spain, #16 South Europe's university and #301 worldwide
 
 **Media Reach (2024 edition info):**
 - **11.7k Twitter followers** with **+15M hashtag impressions** during event days
