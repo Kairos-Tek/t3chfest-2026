@@ -1,6 +1,6 @@
 # CCF Proposal: T3chFest 2026 Qubic Developer Outreach
 
-Request to approve the budget to assist T3chfest 2026 developer event in Madrid.
+Request to approve the budget to assist T3chfest 2026 developer event in Madrid (Spain).
 
 Wallet: FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB
 
