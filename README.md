@@ -144,8 +144,8 @@ Jorge Ordovás brings exceptional advantages for this initiative.
 
 | Component | Details | Cost |
 |-----------|---------|------|
-| **Mega Sponsorship Package** | Official branding, networking, stand space | $1,100 |
-| **Technical Presentation Add-On** | 50-minute slot, AV support, recording, streaming | $2,110 |
+| **Mega Sponsorship Package** | Official branding, networking, promotion | $1,100 |
+| **Technical Presentation Add-On** | 50-minute slot, recording, streaming | $2,110 |
 | **Professional Services** | 32 hours @ $40/hour | $1,280 |
 | **Budget request** | | **$4,490** |
 | **Budget bnQu @USD2200/bn** | **2b** | 
