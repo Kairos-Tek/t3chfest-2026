@@ -70,9 +70,7 @@ Jorge Ordovás brings exceptional advantages for this initiative.
 
 ## Implementation Strategy
 
-### Core Sponsorship: Mega Package + Technical Presentation
-
-Based on T3chFest 2025 sponsorship structure:
+### Sponsorship and Technical Presentation
 
 **Mega Sponsorship Benefits:**
 - ✅ **Logo placement** on T3chFest website (13k+ monthly visitors)
