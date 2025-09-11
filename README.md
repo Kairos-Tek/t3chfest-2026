@@ -148,7 +148,7 @@ Jorge Ordovás brings exceptional advantages for this initiative.
 | **Technical Presentation Add-On** | 50-minute slot, recording, streaming | $2,110 |
 | **Professional Services** | 32 hours @ $40/hour | $1,280 |
 | **Budget request** | | **$4,490** |
-| **Budget bnQu @USD2200/bn** | **2b** | 
+| **Budget bnQu @USD2200/bn** | | **2b** | 
 
 Any left over expenses will be sent back to the CCF.
 
