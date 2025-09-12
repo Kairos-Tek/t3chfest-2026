@@ -23,7 +23,7 @@ The initiative leverages CEO of Kairos (Jorge Ordovás) established T3chFest spe
 
 ### Qubic's Developer Adoption Challenge
 
-Despite Qubic's innovative Useful Proof of Work (uPoW) technology and ambitious AGI roadmap, the platform needs specialized developers to build applications and services on its infrastructure. Direct outreach to Spain's developer community through T3chFest represents the most cost-effective growth opportunity in Europe, providing access to both students and professionals in a single high-impact event, and opening new opportunities with leader universities.
+Despite Qubic's innovative Useful Proof of Work (uPoW) technology and ambitious AGI roadmap, the network needs specialized developers to build applications and services to grow. Direct outreach to Spain's developer community through T3chFest represents the most cost-effective growth opportunity in Europe, providing access to both students and professionals in a single high-impact event, and opening new opportunities with leader universities.
 
 ### T3chFest 2025: Spain's Premier Developer Platform
 
