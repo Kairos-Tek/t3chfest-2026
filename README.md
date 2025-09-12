@@ -44,7 +44,7 @@ T3chFest has established itself as **Spain's most important technology conferenc
 
 ### Jorge Ordovás: Proven T3chFest Speaker & Technical Authority
 
-CEO of Kairoa Jorge Ordovás brings exceptional advantages for this initiative.
+CEO of Kairos Jorge Ordovás brings exceptional advantages for this initiative.
 
 **T3chFest Track Record:**
 - **Successful participation as speaker at T3chFest 2024**: well-received technical presentation ["Decentralized social networks, Elon Musk's kryptonite"](https://www.youtube.com/watch?v=jKOg4JozuHE) 
