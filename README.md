@@ -1,12 +1,10 @@
-# CCF Proposal: T3chFest 2026 Qubic Developer Outreach
+# Crowdfunding Proposal: T3chFest 2026 Qubic Developer Outreach
 
-Request to approve the budget to assist T3chfest 2026 developer event in Madrid (Spain).
+After the CCF proposal was rejected, we launch a crowdfunding proposal to ask the Qubic community to donate the f 6,97 bln QUBIC (@price $700/bln) we need to assist T3chfest 2026 developer event in Madrid (Spain) and showcase Qubic to +1800 developers.
 
 Wallet: FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB
 
-**Available Options:**
-- **Option 0:** No, I don’t want
-- **Option 1:** Yes, approved the budget of 2,2 bln QUBIC (@price $2200/bln)
+Please, all of you interested in supporting it, read the whole proposal to realize why it is important for Qubic to be at T3chfest, and all the detailed information on what are we going to do, before, during and after the event, budget details, etc
 
 ---
 
@@ -148,9 +146,9 @@ CEO of Kairos Jorge Ordovás brings exceptional advantages for this initiative.
 | **Technical Presentation Add-On** | 50-minute slot, recording, streaming | $2,500 |
 | **Professional Services** | 32 hours @ $40/hour | $1,280 |
 | **Budget request** | | **$4,880** |
-| **Budget bnQu @USD2200/bln** | | **2,2bln** | 
+| **Budget bnQu @USD700/bln** | | **6,97 bln QUBIC** | 
 
-Any left over expenses will be sent back to the CCF.
+**IMPORTANT:** It has to be quick, or we risk the only one slot available yet, as organization have just confirmed to us. If it happens, we will return all the donations. And if donations exceed the budget we need, we will return also a % of donations, based on the amount every wallet sent.
 
 ## Expected Outcomes & Success Metrics
 
