@@ -1,6 +1,6 @@
 # Crowdfunding Proposal: T3chFest 2026 Qubic Developer Outreach
 
-After the CCF proposal was rejected, we launch a crowdfunding proposal to ask the Qubic community to donate the 6,97 bln QUBIC (4,48k$ @price $700/bln) we need to assist T3chfest 2026 developer event in Madrid (Spain) and showcase Qubic to +1800 developers.
+After the CCF proposal was rejected, we launch a crowdfunding proposal to ask the Qubic community to donate the 6,97 bln QUBIC (4,88k$ @price $700/bln) we need to assist T3chfest 2026 developer event in Madrid (Spain) and showcase Qubic to +1800 developers.
 
 Wallet: FQJYDAAGMPTOSGYNHYOVVAANQMAAPIGZDCWKEUHBFCOTVANGLMBWMDRAHZMB
 
